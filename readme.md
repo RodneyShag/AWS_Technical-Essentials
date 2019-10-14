@@ -25,6 +25,7 @@ Notes on Amazon's [AWS Technical Essentials](https://acloud.guru/learn/aws-techn
 ## 10000 ft Overview 2: Storage, Databases, Migration & Analytics
 
 ### Storage
+
 - __S3__ (Simple Storage Service)
     - a virtual disk in the cloud where you can store objects (files, like word/powerpoint documents, pictures, movies, text files)
     - don't install database here, or an application. installing computer games or database would not be in S3, it would be in "block-based storage"
